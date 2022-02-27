@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://kevinfeng.ga/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alihsiddique/)](https://www.linkedin.com/in/alihsiddique/)
 
 :school: Currently studying Computer Science at City University, London</br>
 :fountain_pen: I have a passion for creative writing</br>
