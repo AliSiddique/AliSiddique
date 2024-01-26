@@ -9,8 +9,8 @@
 | ------------- | ------------- |
 
 ## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliSiddiquw8&repo=Pomodoroapptimer-todo&theme=github_dark)](https://github.com/AliSiddique/Pomodoroapptimer-todo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliSiddique8&repo=crud-list&theme=github_dark)](https://github.com/AliSiddique/rails-starter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliSiddique&repo=Pomodoroapptimer-todo&theme=github_dark)](https://github.com/AliSiddique/Pomodoroapptimer-todo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliSiddique&repo=crud-list&theme=github_dark)](https://github.com/AliSiddique/rails-starter)
 
 ## Languages and Tools:
 <div>
