@@ -1,35 +1,107 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Ali
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AliSiddique&label=Profile%20views&color=0e75b6&style=flat" alt="Ali siddique" /> </p>
+```
+<div align="center">
 
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@ALHA)](https://medium.com/@ALHA)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alihsiddique/)](https://www.linkedin.com/in/alihsiddique/)
+```ascii
+    ⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⣴⣿⣿⣿⣿⣿[ALI SIDDIQUE]⣿⣿⣿⣿⣦⠀⠀⠀⠀
+    ⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀
+    ⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀
+```
 
+# > SYSTEM INITIALIZED
+## > FULLSTACK DEVELOPER | REACT SPECIALIST | NEXT.JS ARCHITECT
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AliSiddique&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Ali's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliSiddique&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliSiddique&repo=Pomodoroapptimer-todo&theme=github_dark)](https://github.com/AliSiddique/Pomodoroapptimer-todo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliSiddique&repo=rails-starter&theme=github_dark)](https://github.com/AliSiddique/rails-starter)
-
-## Languages and Tools:
-<div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
-  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
 
-</br>
+# > CORE_SYSTEMS.exe
 
+```mermaid
+graph TD
+    style * fill:#0D1117,stroke:#00FF00,color:#00FF00
+    A[TECH_STACK] -->|Frontend| B[React]
+    A -->|Framework| C[Next.js]
+    A -->|Backend| D[Node.js]
+    B --> E[React Native]
+    B --> F[Redux]
+    C --> G[TypeScript]
+    D --> H[Express]
+    D --> I[MongoDB]
+```
 
+# > PROJECT_MATRIX
+
+```ascii
+┌──────────────────────────────────────────┐
+│ [█] Chatbot App: Next.js Implementation  │
+│ [█] YouTube Clone: React Video Platform  │
+│ [█] Twitter Clone: Social Network Core   │
+│ [█] E-Commerce: Full Stack Development   │
+└──────────────────────────────────────────┘
+```
+
+# > SKILL_ANALYSIS
+
+<div align="center">
+
+```ascii
+┌────────────────────────┬────────────────┐
+│ React/Next.js          │ ███████████░░  │
+│ TypeScript            │ ██████████░░░  │
+│ Node.js              │ ████████░░░░░  │
+│ MongoDB              │ ███████░░░░░░  │
+│ Express              │ ███████░░░░░░  │
+└────────────────────────┴────────────────┘
+```
+
+</div>
+
+# > GITHUB_METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliSiddique&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00"/>
+</div>
+
+# > TOP_LANGUAGES
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliSiddique&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00"/>
+</div>
+
+# > NETWORK_PROTOCOLS
+
+```mermaid
+graph LR
+    style * fill:#0D1117,stroke:#00FF00,color:#00FF00
+    A((ALI)) --> B((GITHUB))
+    A --> C((PORTFOLIO))
+    B --> D((REPOSITORIES))
+    C --> E((PROJECTS))
+```
+
+# > LATEST_EXPLOITS
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" />
+</div>
+
+# > CONTACT_VECTORS
+
+```python
+def initialize_contact():
+    protocols = {
+        "github": "https://github.com/AliSiddique",
+        "portfolio": "[ENCRYPTED]"
+    }
+    return establish_connection(protocols)
+```
+
+<div align="center">
+  
+[![][github-shield]][github-url]
+
+</div>
+
+[github-shield]: https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00
+[github-url]: https://github.com/AliSiddique
+```
