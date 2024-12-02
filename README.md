@@ -1,5 +1,4 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <span style="color: #00FF00">Hi there, I'm Ali</span>
-
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <div style="color: #00FF00; display: inline;">Hi there, I'm Ali</div>
 
 
 # > SYSTEM SPECIFICATIONS:
