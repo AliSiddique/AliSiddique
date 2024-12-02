@@ -1,6 +1,5 @@
-```
-
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <span style="color: #00FF00">Hi there, I'm Ali</span>
+
 
 
 # > SYSTEM SPECIFICATIONS:
