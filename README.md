@@ -1,22 +1,8 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <div style="color: #00FF00; display: inline;">Hi there, I'm Ali</div>
 
 
-# > SYSTEM SPECIFICATIONS:
-```ascii
-┌───────────────────────────────────────────────────┐
-│  KERNEL: TECH.STACK.v4.2.1                        │
-│  CPU: MULTI-PARADIGM PROCESSING UNIT              │
-│  RAM: INFINITE KNOWLEDGE BASE                     │
-│  GPU: NEURAL NETWORK ACCELERATOR                  │
-└───────────────────────────────────────────────────┘
-```
 
-</div>
-```
 
-# > SYSTEM BREACH SUCCESSFUL...
-# > INITIATING PROFILE: ALI SIDDIQUE
-# > ADVANCED TECH MATRIX DETECTED...
 
 </div>
 
@@ -51,31 +37,8 @@ graph TD
     F --> F2[TensorFlow]
 ```
 
-# > SKILL_MATRIX
 
-<div align="center">
 
-```ascii
-┌────────────────────────┬────────────────┐
-│ Systems Programming    │ ████████████░  │
-│ ├─ C++                │ ███████████░░  │
-│ ├─ C#                 │ ███████████░░  │
-│ ├─ Golang            │ ██████████░░░  │
-│ Functional            │ ████████████░  │
-│ ├─ Elixir            │ ███████████░░  │
-│ Web Development       │ ████████████░  │
-│ ├─ React             │ ████████████░  │
-│ ├─ SwiftUI           │ ███████████░░  │
-│ Cloud & DevOps        │ ████████████░  │
-│ ├─ AWS               │ ████████████░  │
-│ ├─ Networking        │ ███████████░░  │
-│ AI & ML              │ ███████████░░  │
-│ ├─ PyTorch           │ ███████████░░  │
-│ ├─ Python            │ ████████████░  │
-└────────────────────────┴────────────────┘
-```
-
-</div>
 
 # > BREACH_ANALYTICS
 
@@ -89,17 +52,7 @@ graph TD
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliSiddique&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00"/>
 </div>
 
-# > MISSION_LOG
 
-```ascii
-┌──────────────────────────────────────────┐
-│ [▓] Advanced Systems Architecture        │
-│ [▓] Quantum Computing Research           │
-│ [▓] Neural Network Implementation        │
-│ [▓] Cloud Infrastructure Design          │
-│ [▓] Distributed Systems Development      │
-└──────────────────────────────────────────┘
-```
 
 # > NETWORK_TRACE
 
@@ -107,23 +60,7 @@ graph TD
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" />
 </div>
 
-# > ACCESS_PROTOCOLS
 
-```python
-def initialize_secure_channel():
-    vectors = {
-        "github": "https://github.com/AliSiddique",
-        "status": "ACTIVE",
-        "clearance_level": "ADVANCED",
-        "specializations": [
-            "Systems Programming",
-            "Cloud Architecture",
-            "AI Development",
-            "Network Security"
-        ]
-    }
-    return establish_encrypted_connection(vectors)
-```
 
 <div align="center">
   
