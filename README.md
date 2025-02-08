@@ -36,15 +36,6 @@ graph TD
     F --> F1[PyTorch]
     F --> F2[TensorFlow]
 ```
-
-# > LANGUAGE_SIGNATURES
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliSiddique&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00"/>
-</div>
-
-
-
 # > NETWORK_TRACE
 
 <div align="center">
