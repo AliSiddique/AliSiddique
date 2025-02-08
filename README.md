@@ -37,15 +37,6 @@ graph TD
     F --> F2[TensorFlow]
 ```
 
-
-
-
-# > BREACH_ANALYTICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliSiddique&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00"/>
-</div>
-
 # > LANGUAGE_SIGNATURES
 
 <div align="center">
