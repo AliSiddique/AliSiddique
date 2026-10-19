@@ -1,6 +1,8 @@
 # Ali Siddique
 
-Software engineer working across backend systems, web and mobile frontends, cloud infrastructure, and machine learning. My projects have been used by more than 20,000 people.
+Software engineer building products used by **20,000+ people**.
+
+I work across backend systems, web and mobile frontends, cloud infrastructure, and machine learning.
 
 ## Tech Stack
 
