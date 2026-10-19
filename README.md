@@ -1,55 +1,13 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <div style="color: #00FF00; display: inline;">Hi there, I'm Ali</div>
+# Ali Siddique
 
+Software engineer working across backend systems, web and mobile frontends, cloud infrastructure, and machine learning.
 
+## Tech Stack
 
-
-
-</div>
-
-# > CORE_SYSTEMS.map()
-
-```mermaid
-graph TD
-    style * fill:#0D1117,stroke:#00FF00,color:#00FF00
-    A[TECH_MATRIX] -->|Languages| B[Core]
-    A -->|Frontend| C[Web]
-    A -->|Backend| D[Server]
-    A -->|Cloud| E[Infrastructure]
-    A -->|AI| F[Machine Learning]
-    
-    B --> B1[Elixir]
-    B --> B2[C++]
-    B --> B3[C#]
-    B --> B4[Golang]
-    B --> B5[Python]
-    
-    C --> C1[React]
-    C --> C2[SwiftUI]
-    C --> C3[TypeScript]
-    
-    D --> D1[Node.js]
-    D --> D2[MongoDB]
-    
-    E --> E1[AWS]
-    E --> E2[Networking]
-    
-    F --> F1[PyTorch]
-    F --> F2[TensorFlow]
-```
-# > NETWORK_TRACE
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" />
-</div>
-
-
-
-<div align="center">
-  
-[![][github-shield]][github-url]
-
-</div>
-
-[github-shield]: https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00
-[github-url]: https://github.com/AliSiddique
-```
+| Area | Technologies |
+| --- | --- |
+| Languages | Elixir, C++, C#, Go, Python, TypeScript |
+| Frontend & Mobile | React, SwiftUI |
+| Backend & Data | Node.js, MongoDB |
+| Cloud & Infrastructure | AWS, Networking |
+| Machine Learning | PyTorch, TensorFlow |
